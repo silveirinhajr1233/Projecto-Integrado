@@ -1,0 +1,1 @@
+/Users/josemigueldasilvasantos/Exercism/rust/sum-of-multiples/target/debug/sum_of_multiples-a1b61e61775bd978: /Users/josemigueldasilvasantos/Exercism/rust/sum-of-multiples/src/lib.rs /Users/josemigueldasilvasantos/Exercism/rust/sum-of-multiples/tests/sum-of-multiples.rs
