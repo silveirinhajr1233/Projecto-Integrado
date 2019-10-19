@@ -32,5 +32,6 @@ impl Palindrome {
 
 #[inline]
 pub fn is_palindrome(n: u64) -> bool {
-    //Fazer
+    let s = n.to_string().into_bytes();
+    s.iter().zip(s.iter().rev()).all(|(a, b)| a == b)
 }
