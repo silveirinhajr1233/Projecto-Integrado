@@ -1,0 +1,1 @@
+/Users/josemigueldasilvasantos/Exercism/rust/difference-of-squares/target/debug/difference_of_squares-7ec5b0fe9e891377: /Users/josemigueldasilvasantos/Exercism/rust/difference-of-squares/src/lib.rs /Users/josemigueldasilvasantos/Exercism/rust/difference-of-squares/tests/difference-of-squares.rs
